@@ -1,0 +1,8 @@
+1100.00
+alice B L D 1099.00 10
+carol S L I 1101.00 5
+dave B L D 1099.75 20
+bob B M D 100
+fred B L I 1090.00 1
+eve B L D 1099.75 100
+musk S M D 1000
