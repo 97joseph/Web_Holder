@@ -10,7 +10,7 @@
 */
 
 
-// ============ Utility functions =================
+// ============ Utility functions ================
 
 inline void swap(float& a, float& b) { // Inline function to swap two float values
     float t { a };

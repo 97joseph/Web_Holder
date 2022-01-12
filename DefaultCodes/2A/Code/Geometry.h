@@ -9,7 +9,7 @@
 class Point;
 
 
-// Abstract class
+// Abstsract class
 class Shape {
 
 public:
