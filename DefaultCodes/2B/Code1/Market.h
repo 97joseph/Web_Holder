@@ -8,7 +8,7 @@
 using namespace std;
 
 
-class Order;  // forward declaration
+class Order;  // forward to declaration
 
 std::vector<string> splitLineBySpace(string line);
 

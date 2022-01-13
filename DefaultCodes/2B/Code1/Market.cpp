@@ -9,7 +9,7 @@
 using namespace std;
 
 
-// ============ Global functions =================
+// ============ Global functions ===============
 
 std::vector<string> splitLineBySpace(string line) {
   std::vector<string> components;

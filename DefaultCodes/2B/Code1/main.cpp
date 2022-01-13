@@ -13,7 +13,7 @@ int main(int argc,  char **argv) {
   cout << std::fixed << std::setprecision(2);
   output_file << std::fixed << std::setprecision(2);
 
-  // creates a StockMarket with last_traded_price_ from first line of file
+  // creates a StockMarket with last_traded_price from first line of file
   string text_buffer;
   getline(input_file, text_buffer);
   StockMarket stockMarket(stof(text_buffer), output_file);

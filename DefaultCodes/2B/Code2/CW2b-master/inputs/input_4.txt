@@ -2,4 +2,4 @@
 ord001 B L D 4.00 100
 ord002 S L D 4.50 100
 ord003 B L D 4.25 100
-ord004 S L D 4.25 13
+ord004 S L D 4.25 130
